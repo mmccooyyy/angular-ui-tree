@@ -67,18 +67,20 @@
           {
             'id': 22,
             'title': 'node2.2',
-            'nodes': []
-          }
-        ]
-      }, {
-        'id': 3,
-        'title': 'node3',
-        'nodes': [
-          {
-            'id': 31,
-            'title': 'node3.1',
-            'nodes': []
-          }
+            'nodes': [
+              {
+                'id': 3,
+                'title': 'node3',
+                'nodes': [
+                  {
+                    'id': 31,
+                    'title': 'node3.1',
+                    'nodes': []
+                  }
+                ]
+              }
+            ]
+          }          
         ]
       }];
     }]);
